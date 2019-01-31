@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "757899001874",
+    "firebase_url": "https://chatonlineflutterio.firebaseio.com",
+    "project_id": "chatonlineflutterio",
+    "storage_bucket": "chatonlineflutterio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757899001874:android:4c8a80df074ac647",
+        "android_client_info": {
+          "package_name": "com.kodokaisoluti.chatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757899001874-ghq3s3376uso4rd214e8vfjfik5kbd5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kodokaisoluti.chatonline",
+            "certificate_hash": "dba941a9f0f0d1065c6f32440a3462286d3ebe35"
+          }
+        },
+        {
+          "client_id": "757899001874-5trsd7b0i2crr4j9kfn4fgbimtnfnt62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBUTXVZ8R6XuAdxsHmQ8sBLtUWdSDcu_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757899001874-5trsd7b0i2crr4j9kfn4fgbimtnfnt62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
